@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osintxplorer
-- 👀 I’m interested in explorering OSINT Tools
+- 👀 I’m interested in exploring OSINT Tools and Techniques
 - 📫 How to reach me osintxplorer@gmail.com
 
 <!---
